@@ -1,1 +1,1 @@
-# Crop-price-optimization-using-ML-
+# Crop-price-optimization-using-ML algorithms
